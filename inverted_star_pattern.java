@@ -1,4 +1,4 @@
-package Pattern ; 
+
 import java.util.*;
 public class inverted_star_pattern {
         public static void main(String args[]){
